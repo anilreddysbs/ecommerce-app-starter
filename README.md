@@ -41,9 +41,9 @@ Dockerfile
 To run backend tests:
 python manage.py test
 📮 API Documentation
-- Use Postman or Swagger.
+- Use Postman
 - Postman collection: docs/postman_collection.json
-- Swagger UI: http://localhost:8000/api/schema/swagger-ui/
+  
 
 Example Endpoints:
 - /api/products/ (GET) — List products
